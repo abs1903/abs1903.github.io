@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wenhao Chen / Site Title"
+title                    : "Wenhao Chen"
 title_separator          : "-"
 name                     : &name "Wenhao Chen"
-description              : &description "Wenhao Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Undergraduate student at Peking University working on autonomous driving, AI agents, and embodied AI."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://abs1903.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Wenhao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Peking University undergraduate in Intelligent Science and Technology. Working on autonomous driving, AI agents, and embodied AI."
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : # URL
+  uri              : "https://abs1903.github.io/"
   email            : "wenhaochen@stu.pku.edu.cn" 
 
   # Academic websites

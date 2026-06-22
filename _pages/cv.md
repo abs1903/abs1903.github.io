@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Peking University, B.Eng. candidate in Intelligent Science and Technology, Zhi Class (Experimental Program), 2024–2028 (expected)
+  * GPA: 3.701 (freshman year)
+  * Selected coursework: Mathematical Analysis I (91), Advanced Algebra I (99), Introduction to Computing A (93), Programming Practicum (98), Introduction to Artificial Intelligence (94.5)
+* Wenzhou High School, Zhejiang Province, 2021–2024
+  * Gaokao: 707/750, Provincial Rank 72
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Autonomous driving
+* AI agents
+* Embodied AI
+* Multimodal learning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System (CVPR 2026)
+  * Second author
+  * Designed retrieval components, including the knowledge graph and retrieval workflow
+  * Participated in verifier and reward model design, training, and validation
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* DrivingAgent: Design and Scheduling Agents for Autonomous Driving Systems (arXiv:2606.12236)
+  * Co-author
+  * Worked on agent framework design and implementation, plus nuScenes experiments
+
+* HiDrive: A Closed-Loop Benchmark for High-Level Autonomous Driving (arXiv:2605.09972)
+  * Co-author
+  * Worked on early-stage scenario screening and task design
+
+Projects
+======
+* PKU SEECS Innovation+ Workstation Project: Local Identity-Preserving Generation for Commercial Product Redrawing
+  * Project lead / team leader
+  * Built a complete research workflow for commercial product redrawing
+  * Reduced MAE on the full test set from 0.140163 to 0.058910
+
+Honors and awards
+======
+* Tianchuang Scholarship, PKU SEECS (2024–2025)
+* CCPC National Finals Gold Medal, Harbin 2024
+* CCPC National Finals Silver Medal, Chongqing 2025
+* 2025 Second Prize (Top 20), 23rd Jiukun Cup Programming Contest, Peking University
+* 2026 Third Prize, 24th Jiukun Cup Programming Contest, Peking University
+* First Prize, Zhejiang Olympiad in Informatics
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming: Python, C++, C
+* ML/DL: PyTorch, model training, experiment pipelines, benchmark evaluation
+* Tools: Linux, Git, LaTeX
