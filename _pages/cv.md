@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Peking University, B.Eng. candidate in Intelligent Science and Technology, Zhi Class (Experimental Program), 2024–2028 (expected)
-  * GPA: 3.701 (freshman year)
   * Selected coursework: Mathematical Analysis I (91), Advanced Algebra I (99), Introduction to Computing A (93), Programming Practicum (98), Introduction to Artificial Intelligence (94.5)
 * Wenzhou High School, Zhejiang Province, 2021–2024
   * Gaokao: 707/750, Provincial Rank 72
