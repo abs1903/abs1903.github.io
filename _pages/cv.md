@@ -53,7 +53,6 @@ Honors and awards
 * CCPC National Finals Silver Medal, Chongqing 2025
 * 2025 Second Prize (Top 20), 23rd Jiukun Cup Programming Contest, Peking University
 * 2026 Third Prize, 24th Jiukun Cup Programming Contest, Peking University
-* First Prize, Zhejiang Olympiad in Informatics
 
 Skills
 ======
